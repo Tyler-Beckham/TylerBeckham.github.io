@@ -1,49 +1,17 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Tyler-Beckham/TylerBeckham.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tyler-Beckham/TylerBeckham.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
 # Artifact One - Software Design/Engineering
-- Artifact One
-- Artifact One Narrative
+- **[Artifact One](https://github.com/Tyler-Beckham/TylerBeckham.github.io/blob/gh-pages/CS%20499%20Artifact%20One.zip)**
+Artifact One is a Zip file containing a OpenGL project of a 3D bookcase that the user can orbit and zoom around.
+- **[Artifact One Narrative](https://github.com/Tyler-Beckham/TylerBeckham.github.io/blob/gh-pages/CS%20499%20Artifact%20One%20Narrative.docx)**
+The Narrative for Artifact One goes into more detail on how the project works and why it demostrates my skill in Software Design/Engineering.
 
 # Artifact Two - Algorithms and Data Structures
-- Artifact Two
-- Artifact Two Narrative
+- **[Artifact Two](https://github.com/Tyler-Beckham/TylerBeckham.github.io/blob/gh-pages/CS%20499%20Artifact%20Two.docx)**
+Artifact Two is a follow up document to an older project where I proposed my recomendations for various algorithms and data structures to be used by a fictional compaines database team. This follow up document expands and enhances the original algorithm and data structure by discussing the use of a Red Black Binary Search Tree.
+- **[Artifact Two Narrative](https://github.com/Tyler-Beckham/TylerBeckham.github.io/blob/gh-pages/CS%20499%20Artifact%20Two%20Narrative.docx)**
+The Narrative for Artifact Two goes into more detail on the project and why it demostrates my skill in Algorithms and Data Structures.
 
 # Artifcat Three - Databases
-- Artifact Three
-- Artifact Three Narrative
+- **[Artifact Three](https://github.com/Tyler-Beckham/TylerBeckham.github.io/blob/gh-pages/Artifact%20Three.sql)**
+Artifact Three is a series of SQL commands and stored procedures to manipulate data in a database.
+- **[Artifact Three Narrative](https://github.com/Tyler-Beckham/TylerBeckham.github.io/blob/gh-pages/CS%20499%20Artifact%20Three%20Narrative.docx)**
+The Narrative for Artifact Three goes into more detail on how the SQL scripts works and why they demostrate my skill in Databases.
