@@ -17,7 +17,7 @@ The second artifact is less complex from the point of coding, since there really
 The third artifact is for databases, and because of this I wanted to go with something that I use in my professional life almost everyday. This is why I choose to use my final project from DAD-220. I knew I could enhance the complexity of this project and show off my skills in SQL since I am now very comfortable with this language. The enhancements in this artifact show that I can take strong basic concepts and improve upon them with more advanced techniques to achieve the desired goals while saving time in the real world. 
 
 # Coder Review before enhancments
-- **[Code Review](https://youtu.be/SKpmwzMBon0)**
+- **[Code Review](https://youtu.be/w4RBxW7M_SE)**
 This is my informal code review of Artifact One, Two, and Three before I expand the complexity and functionality.
 
 # Artifact One - Software Design/Engineering
